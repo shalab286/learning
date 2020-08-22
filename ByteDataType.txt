@@ -1,0 +1,23 @@
+fun main(args: Array<String>) {
+
+//    range = -128 -  128
+//     size = 1 byte
+
+     //variable  :>
+     var a = -128
+
+     println(a)
+     // constant :>
+
+     val b = 127
+    println(b)
+
+    // datatype declaration :>
+    val c: Byte = 123
+    println(c)
+
+    var z: Byte
+    z = 10
+    println(z)
+
+}
