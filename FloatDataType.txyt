@@ -1,0 +1,9 @@
+fun main(args: Array<String>) {
+//    size = 4
+//    it will store 7 numbers after point 
+//    variable
+
+    var j: Float = 12.123456f
+    println(j)
+    
+}
