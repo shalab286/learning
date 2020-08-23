@@ -1,0 +1,8 @@
+fun main(args: Array<String>) {
+//    size = bytes
+//      constant
+
+    val a:Double = 12.2454556
+    println(a)
+    
+}
