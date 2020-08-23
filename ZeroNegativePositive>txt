@@ -1,0 +1,15 @@
+fun main(args: Array<String>) {
+    val a = - 3445
+
+    if (a == 0){
+        println("Value is equivalent to 0")
+    }
+    else if(a < 0 ){
+        println("this is Negative")
+    }
+    else{
+         print("This is positive")
+
+    }
+
+}
