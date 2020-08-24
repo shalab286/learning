@@ -1,0 +1,8 @@
+fun main(args: Array<String>) {
+//    user input -->
+    
+    println("what is your age")
+    var a = readLine()
+    println("this your age $a")
+    
+}
