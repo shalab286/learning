@@ -1,0 +1,10 @@
+fun main(args: Array<String>) {
+
+   fun greet(name:String){
+      println("$name , hi")
+   }
+
+   greet("Gyan")
+
+}
+    
