@@ -1,0 +1,6 @@
+fun main(args: Array<String>) {
+   var  myString: String= "hi there "
+   var newString: String
+    newString= myString.replace(" ","-")
+   println(newString)
+}
