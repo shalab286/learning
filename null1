@@ -1,0 +1,7 @@
+fun main(args: Array<String>) {
+
+   var a: String? = null
+
+   println("this is the length of string ${a?.length}")
+
+}
