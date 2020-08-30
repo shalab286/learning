@@ -1,0 +1,32 @@
+fun main(args: Array<String>) {
+
+//   ascending order
+   var a = 1..10
+   println(a) // a = 1,2,3,4,5,6,7,8,9,10
+
+//    descending order
+   var b = 10 downTo 1
+   println(b) // a = 10,9,8,7,6,5,4,3,2,1
+
+//   step 2
+   val c = 10 downTo 1 step 2
+   println(c) // c = 10,8,6,4,3,1
+
+//   isPresent
+   val isPresent = 8 in c
+   println(isPresent)
+
+//   in character
+   val d = "a".."i"
+   println(d)
+   val e = "d" in d
+   println(e)
+
+//   rangeTo function
+     val f = 1.rangeTo(10)
+     println(f)
+
+//   downTo function
+     val j = 10.downTo(1)
+     println(j)
+}
